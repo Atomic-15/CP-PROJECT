@@ -1,3 +1,3 @@
 # CP-PROJECT
 <br>
-Author - Atomic
+Author - Atomic (NED)
